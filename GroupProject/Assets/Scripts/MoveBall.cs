@@ -34,4 +34,4 @@ public class MoveBall : MonoBehaviour
             rb.AddForce(Vector3.left * speed);
         }
     }
-}
+} 
