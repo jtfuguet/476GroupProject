@@ -60,3 +60,5 @@ crashlytics-build.properties
 
 GroupProject/Temp/
 GroupProject/Temp/Assembly-CSharp.dll
+GroupProject/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+*.stamp
