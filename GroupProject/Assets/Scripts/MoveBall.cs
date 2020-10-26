@@ -29,7 +29,7 @@ public class MoveBall : MonoBehaviour
         {
             rb.AddForce(Vector3.right * speed);
         }
-        if (Input.GetKey(KeyCode.LeftArrow))
+        if (Input.GetKey(KeyCode.LeftArrow) )
         {
             rb.AddForce(Vector3.left * speed);
         }
