@@ -13,9 +13,627 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-10-27T11:24:57.674-04:00
+  lastUpdatedAtString: 2020-10-27T11:34:17.139-04:00
   initializedAtString: 2020-10-27T11:24:57.674-04:00
   log:
+  - commitID: ddb09b7fb3620cc2b834800b258b4fa137a23d42
+    mergeA: 
+    mergeB: 
+    authorName: bMeasel
+    authorEmail: 49103411+bMeasel@users.noreply.github.com
+    commitEmail: 49103411+bMeasel@users.noreply.github.com
+    commitName: bMeasel
+    summary: update
+    description: update
+    timeString: 2020-10-27T11:25:38.000-04:00
+    commitTimeString: 2020-10-27T11:25:38.000-04:00
+    changes:
+    - path: GroupProject\Library\APIUpdater\project-dependencies.graph
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\APIUpdater\project-dependencies.graph
+      projectPath: Library\APIUpdater\project-dependencies.graph
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ArtifactDB
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ArtifactDB
+      projectPath: Library\ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\02\02907de5848efb6e75f60788bf2ecda4
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\02\02907de5848efb6e75f60788bf2ecda4
+      projectPath: Library\Artifacts\02\02907de5848efb6e75f60788bf2ecda4
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\04\047a6d1119114c6088d1d1cbcc84c4dd
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\04\047a6d1119114c6088d1d1cbcc84c4dd
+      projectPath: Library\Artifacts\04\047a6d1119114c6088d1d1cbcc84c4dd
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\0a\0a3771cd6b31336f5045772671a5c8bc
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\0a\0a3771cd6b31336f5045772671a5c8bc
+      projectPath: Library\Artifacts\0a\0a3771cd6b31336f5045772671a5c8bc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\0b\0ba2e094e2106bb4b5d3edc47773bb2e
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\0b\0ba2e094e2106bb4b5d3edc47773bb2e
+      projectPath: Library\Artifacts\0b\0ba2e094e2106bb4b5d3edc47773bb2e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\0c\0c4f64156eb18e207da38d4b768f3144
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\0c\0c4f64156eb18e207da38d4b768f3144
+      projectPath: Library\Artifacts\0c\0c4f64156eb18e207da38d4b768f3144
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\1f\1fa971b43e49017c4ac8b2448fbd81ab
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\1f\1fa971b43e49017c4ac8b2448fbd81ab
+      projectPath: Library\Artifacts\1f\1fa971b43e49017c4ac8b2448fbd81ab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\20\2042262d4078755df0a68a8fba0e1771
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\20\2042262d4078755df0a68a8fba0e1771
+      projectPath: Library\Artifacts\20\2042262d4078755df0a68a8fba0e1771
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\22\2245a0934c905171d74bbc8d7ee5a7fa
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\22\2245a0934c905171d74bbc8d7ee5a7fa
+      projectPath: Library\Artifacts\22\2245a0934c905171d74bbc8d7ee5a7fa
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\23\238b1b1fc5a566d8f02a8ef828e74c40
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\23\238b1b1fc5a566d8f02a8ef828e74c40
+      projectPath: Library\Artifacts\23\238b1b1fc5a566d8f02a8ef828e74c40
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\24\24ca03e9ed799ff1799b6d8ec78c4d12
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\24\24ca03e9ed799ff1799b6d8ec78c4d12
+      projectPath: Library\Artifacts\24\24ca03e9ed799ff1799b6d8ec78c4d12
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\28\2883bb8877d03c4f796082018efd898e
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\28\2883bb8877d03c4f796082018efd898e
+      projectPath: Library\Artifacts\28\2883bb8877d03c4f796082018efd898e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\2a\2af17a6bc4a5ece1ba69ed326da9b731
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\2a\2af17a6bc4a5ece1ba69ed326da9b731
+      projectPath: Library\Artifacts\2a\2af17a6bc4a5ece1ba69ed326da9b731
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\2b\2bb2e0468cc6137efe92550d24033f96
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\2b\2bb2e0468cc6137efe92550d24033f96
+      projectPath: Library\Artifacts\2b\2bb2e0468cc6137efe92550d24033f96
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\2b\2be1148d255a9328f52056fd9901b76e
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\2b\2be1148d255a9328f52056fd9901b76e
+      projectPath: Library\Artifacts\2b\2be1148d255a9328f52056fd9901b76e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\31\319c2998a6721bb71d6a2cee543e3cac
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\31\319c2998a6721bb71d6a2cee543e3cac
+      projectPath: Library\Artifacts\31\319c2998a6721bb71d6a2cee543e3cac
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\33\33398c7af9791723bf85264bb0bb1127
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\33\33398c7af9791723bf85264bb0bb1127
+      projectPath: Library\Artifacts\33\33398c7af9791723bf85264bb0bb1127
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\33\336a02f107e40d6c1ed1c6bf096ba63b
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\33\336a02f107e40d6c1ed1c6bf096ba63b
+      projectPath: Library\Artifacts\33\336a02f107e40d6c1ed1c6bf096ba63b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\35\352df973ef8036e203489f42e78eb65b
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\35\352df973ef8036e203489f42e78eb65b
+      projectPath: Library\Artifacts\35\352df973ef8036e203489f42e78eb65b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\3a\3a4f1b2aec4d95229d9b7bcb191b8bff
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\3a\3a4f1b2aec4d95229d9b7bcb191b8bff
+      projectPath: Library\Artifacts\3a\3a4f1b2aec4d95229d9b7bcb191b8bff
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\3a\3a752fca506f639932dcd102d1fdb1a9
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\3a\3a752fca506f639932dcd102d1fdb1a9
+      projectPath: Library\Artifacts\3a\3a752fca506f639932dcd102d1fdb1a9
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\3b\3bbbb4fecc5d81582b321792b9a4599f
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\3b\3bbbb4fecc5d81582b321792b9a4599f
+      projectPath: Library\Artifacts\3b\3bbbb4fecc5d81582b321792b9a4599f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\40\4056dbe67aa2cbec020971f3e9463c41
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\40\4056dbe67aa2cbec020971f3e9463c41
+      projectPath: Library\Artifacts\40\4056dbe67aa2cbec020971f3e9463c41
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\45\45ef6a5d09d56b15424293b28860aaf5
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\45\45ef6a5d09d56b15424293b28860aaf5
+      projectPath: Library\Artifacts\45\45ef6a5d09d56b15424293b28860aaf5
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\46\468c51c1e68731a8f1c0a4e36473ba90
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\46\468c51c1e68731a8f1c0a4e36473ba90
+      projectPath: Library\Artifacts\46\468c51c1e68731a8f1c0a4e36473ba90
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+      projectPath: Library\Artifacts\50\503c8066e93ae6b8a0f7700a104d1331
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\55\5560262fa5a1ca1c65cd998d7bf00e0e
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\55\5560262fa5a1ca1c65cd998d7bf00e0e
+      projectPath: Library\Artifacts\55\5560262fa5a1ca1c65cd998d7bf00e0e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\57\5739df56f469b0000a20d9a7d981de7b
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\57\5739df56f469b0000a20d9a7d981de7b
+      projectPath: Library\Artifacts\57\5739df56f469b0000a20d9a7d981de7b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\5b\5b4b76b546d51fa01b6f7d097464a56e
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\5b\5b4b76b546d51fa01b6f7d097464a56e
+      projectPath: Library\Artifacts\5b\5b4b76b546d51fa01b6f7d097464a56e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\5d\5dbbab249ba69a0582193e277bf6a36c
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\5d\5dbbab249ba69a0582193e277bf6a36c
+      projectPath: Library\Artifacts\5d\5dbbab249ba69a0582193e277bf6a36c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\66\6617d879849da6a14ce0d17d03e98cf2
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\66\6617d879849da6a14ce0d17d03e98cf2
+      projectPath: Library\Artifacts\66\6617d879849da6a14ce0d17d03e98cf2
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\69\699caabd48e742525cc1476645ff2185
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\69\699caabd48e742525cc1476645ff2185
+      projectPath: Library\Artifacts\69\699caabd48e742525cc1476645ff2185
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\6e\6e7a855be92bb9298ba3c622b2858dbc
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\6e\6e7a855be92bb9298ba3c622b2858dbc
+      projectPath: Library\Artifacts\6e\6e7a855be92bb9298ba3c622b2858dbc
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\72\72d996317ca80c001b9392d565cb28cb
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\72\72d996317ca80c001b9392d565cb28cb
+      projectPath: Library\Artifacts\72\72d996317ca80c001b9392d565cb28cb
+      originalPath: GroupProject\Library\Artifacts\16\16e1a771574905e4c2cda6d298ff4a31
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\73\73c718904c98885038f00113cb4ffefe
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\73\73c718904c98885038f00113cb4ffefe
+      projectPath: Library\Artifacts\73\73c718904c98885038f00113cb4ffefe
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\79\793bda8faeeea664064fb5e08101e381
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\79\793bda8faeeea664064fb5e08101e381
+      projectPath: Library\Artifacts\79\793bda8faeeea664064fb5e08101e381
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\7a\7af78b9dfe8fce984a28f3b22d045223
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\7a\7af78b9dfe8fce984a28f3b22d045223
+      projectPath: Library\Artifacts\7a\7af78b9dfe8fce984a28f3b22d045223
+      originalPath: GroupProject\Library\Artifacts\fa\fa1dc9997fceb2dcb0624cfd669ddb0f
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\7c\7c59542e81e2393fa8a965f5eeaecbfb
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\7c\7c59542e81e2393fa8a965f5eeaecbfb
+      projectPath: Library\Artifacts\7c\7c59542e81e2393fa8a965f5eeaecbfb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\7e\7e920686f7affd2dae21df3a28a2a005
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\7e\7e920686f7affd2dae21df3a28a2a005
+      projectPath: Library\Artifacts\7e\7e920686f7affd2dae21df3a28a2a005
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\84\8432252f7a0a919ece55d7d3bc18ca38
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\84\8432252f7a0a919ece55d7d3bc18ca38
+      projectPath: Library\Artifacts\84\8432252f7a0a919ece55d7d3bc18ca38
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\88\88f96827489a355596879f4bafd6a031
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\88\88f96827489a355596879f4bafd6a031
+      projectPath: Library\Artifacts\88\88f96827489a355596879f4bafd6a031
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\a2\a2204a6acc7b3670ef6d45983e897297
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\a2\a2204a6acc7b3670ef6d45983e897297
+      projectPath: Library\Artifacts\a2\a2204a6acc7b3670ef6d45983e897297
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\a5\a521c3a5423197b3c68297f8d050e502
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\a5\a521c3a5423197b3c68297f8d050e502
+      projectPath: Library\Artifacts\a5\a521c3a5423197b3c68297f8d050e502
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\a7\a702a536004a8ddd73fa563946fa1770
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\a7\a702a536004a8ddd73fa563946fa1770
+      projectPath: Library\Artifacts\a7\a702a536004a8ddd73fa563946fa1770
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\ac\ac912b31626f92133f773e79089aff2d
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\ac\ac912b31626f92133f773e79089aff2d
+      projectPath: Library\Artifacts\ac\ac912b31626f92133f773e79089aff2d
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\ba\bac050ff6cd7033d408d1730b18a77ea
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\ba\bac050ff6cd7033d408d1730b18a77ea
+      projectPath: Library\Artifacts\ba\bac050ff6cd7033d408d1730b18a77ea
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\bb\bb5bf62b38a8ca49aeb9ee627e0928ef
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\bb\bb5bf62b38a8ca49aeb9ee627e0928ef
+      projectPath: Library\Artifacts\bb\bb5bf62b38a8ca49aeb9ee627e0928ef
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\bf\bf08f10b76a5c890f4d8f27630ad081c
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\bf\bf08f10b76a5c890f4d8f27630ad081c
+      projectPath: Library\Artifacts\bf\bf08f10b76a5c890f4d8f27630ad081c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\bf\bf17ee0605a1c60dcc3d1df7d57ce19f
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\bf\bf17ee0605a1c60dcc3d1df7d57ce19f
+      projectPath: Library\Artifacts\bf\bf17ee0605a1c60dcc3d1df7d57ce19f
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\bf\bf94f122af28b62bb0893ca46049f009
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\bf\bf94f122af28b62bb0893ca46049f009
+      projectPath: Library\Artifacts\bf\bf94f122af28b62bb0893ca46049f009
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+      projectPath: Library\Artifacts\c0\c0605b2fde794c0e56697e95876c0e8b
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\ca\cab502e3b0034df15ab7f6d433705dab
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\ca\cab502e3b0034df15ab7f6d433705dab
+      projectPath: Library\Artifacts\ca\cab502e3b0034df15ab7f6d433705dab
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\cd\cde870a92358d5589c85b3e39d44c809
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\cd\cde870a92358d5589c85b3e39d44c809
+      projectPath: Library\Artifacts\cd\cde870a92358d5589c85b3e39d44c809
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\ce\ce93859c857724e5d4d08109b4e7f749
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\ce\ce93859c857724e5d4d08109b4e7f749
+      projectPath: Library\Artifacts\ce\ce93859c857724e5d4d08109b4e7f749
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\d2\d2820991cf5fc4b4a7fcc51d8e8efbcb
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\d2\d2820991cf5fc4b4a7fcc51d8e8efbcb
+      projectPath: Library\Artifacts\d2\d2820991cf5fc4b4a7fcc51d8e8efbcb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\d3\d32e930db3a913c36823301bf35be2b8
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\d3\d32e930db3a913c36823301bf35be2b8
+      projectPath: Library\Artifacts\d3\d32e930db3a913c36823301bf35be2b8
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\d3\d389199ea2b09e65f98a05f9064ca7bf
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\d3\d389199ea2b09e65f98a05f9064ca7bf
+      projectPath: Library\Artifacts\d3\d389199ea2b09e65f98a05f9064ca7bf
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\d4\d4a511fd5f276325081543e81b1fc477
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\d4\d4a511fd5f276325081543e81b1fc477
+      projectPath: Library\Artifacts\d4\d4a511fd5f276325081543e81b1fc477
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\d4\d4e6e395ced79c339310af28edbbe065
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\d4\d4e6e395ced79c339310af28edbbe065
+      projectPath: Library\Artifacts\d4\d4e6e395ced79c339310af28edbbe065
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\d6\d68a81891699d438dbc00461c5fb457e
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\d6\d68a81891699d438dbc00461c5fb457e
+      projectPath: Library\Artifacts\d6\d68a81891699d438dbc00461c5fb457e
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\d8\d8b9de3239b67f4ad7e3928f0d159940
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\d8\d8b9de3239b67f4ad7e3928f0d159940
+      projectPath: Library\Artifacts\d8\d8b9de3239b67f4ad7e3928f0d159940
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\dc\dc7e532d29b5d38b01b60d351842adac
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\dc\dc7e532d29b5d38b01b60d351842adac
+      projectPath: Library\Artifacts\dc\dc7e532d29b5d38b01b60d351842adac
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\e1\e161c1a2d42c47fa520b236c26865060
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\e1\e161c1a2d42c47fa520b236c26865060
+      projectPath: Library\Artifacts\e1\e161c1a2d42c47fa520b236c26865060
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\e2\e29359bc862a5bf7a3c09b5b4782b61c
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\e2\e29359bc862a5bf7a3c09b5b4782b61c
+      projectPath: Library\Artifacts\e2\e29359bc862a5bf7a3c09b5b4782b61c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\e3\e31e3f53c904e198f08f36249cd528d8
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\e3\e31e3f53c904e198f08f36249cd528d8
+      projectPath: Library\Artifacts\e3\e31e3f53c904e198f08f36249cd528d8
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\f3\f3fdb7f459ad6c42e9e9d7125f318511
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\f3\f3fdb7f459ad6c42e9e9d7125f318511
+      projectPath: Library\Artifacts\f3\f3fdb7f459ad6c42e9e9d7125f318511
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\f4\f4c352d9b24afd62f3d113017a687936
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\f4\f4c352d9b24afd62f3d113017a687936
+      projectPath: Library\Artifacts\f4\f4c352d9b24afd62f3d113017a687936
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\f6\f6564239b35cf4522425ccc22bb0e53c
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\f6\f6564239b35cf4522425ccc22bb0e53c
+      projectPath: Library\Artifacts\f6\f6564239b35cf4522425ccc22bb0e53c
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\fb\fb183adfac4479d88404c9bd3bd091bb
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\fb\fb183adfac4479d88404c9bd3bd091bb
+      projectPath: Library\Artifacts\fb\fb183adfac4479d88404c9bd3bd091bb
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+    - path: GroupProject\Library\EditorInstance.json
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\EditorInstance.json
+      projectPath: Library\EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Assembly-CSharp.dll
+      projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Unity.Timeline.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Unity.Timeline.dll
+      projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\UnityEditor.UI.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\UnityEditor.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ScriptAssemblies\UnityEngine.UI.dll
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ScriptAssemblies\UnityEngine.UI.dll
+      projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\SourceAssetDB
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\SourceAssetDB-lock
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\SourceAssetDB-lock
+      projectPath: Library\SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gituser.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gituser.yaml
+      projectPath: Library\gfu\cache\gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: d996138100947a6a9b3281ef3e875e6b544f7c81
     mergeA: 
     mergeB: 
