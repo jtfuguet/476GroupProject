@@ -13,9 +13,351 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-10-27T11:40:27.203-04:00
+  lastUpdatedAtString: 2020-10-27T14:09:38.543-04:00
   initializedAtString: 2020-10-27T11:24:57.674-04:00
   log:
+  - commitID: 7f3384710134b6af03fb650628f1a7b83feec150
+    mergeA: 
+    mergeB: 
+    authorName: bMeasel
+    authorEmail: 49103411+bMeasel@users.noreply.github.com
+    commitEmail: 49103411+bMeasel@users.noreply.github.com
+    commitName: bMeasel
+    summary: first attempt at materials
+    description: first attempt to add materials to the levels
+    timeString: 2020-10-27T11:48:21.000-04:00
+    commitTimeString: 2020-10-27T11:48:21.000-04:00
+    changes:
+    - path: GroupProject\Assets\Prefabs\Ball.prefab
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Prefabs\Ball.prefab
+      projectPath: Assets\Prefabs\Ball.prefab
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Prefabs\level2.skp.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Prefabs\level2.skp.meta
+      projectPath: Assets\Prefabs\level2.skp.meta
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\18\18717db3c2ffe4cf6894a71d7510240a
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\18\18717db3c2ffe4cf6894a71d7510240a
+      projectPath: Library\Artifacts\18\18717db3c2ffe4cf6894a71d7510240a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\5c\5c28161c9aa750b6b8caf605fe07a036
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\5c\5c28161c9aa750b6b8caf605fe07a036
+      projectPath: Library\Artifacts\5c\5c28161c9aa750b6b8caf605fe07a036
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\60\608eae719cdebfb6cab820c15eb4f1dc
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\60\608eae719cdebfb6cab820c15eb4f1dc
+      projectPath: Library\Artifacts\60\608eae719cdebfb6cab820c15eb4f1dc
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\77\77d1d1e9e3d51e9491ef1319ca1de4f3
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\77\77d1d1e9e3d51e9491ef1319ca1de4f3
+      projectPath: Library\Artifacts\77\77d1d1e9e3d51e9491ef1319ca1de4f3
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\a5\a5b9e71d9438e4310ee8db9ded827ea1
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\a5\a5b9e71d9438e4310ee8db9ded827ea1
+      projectPath: Library\Artifacts\a5\a5b9e71d9438e4310ee8db9ded827ea1
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\aa\aacd7f48152084aa04b320e2f15d2032
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\aa\aacd7f48152084aa04b320e2f15d2032
+      projectPath: Library\Artifacts\aa\aacd7f48152084aa04b320e2f15d2032
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\cf\cf28048d6e71785b87b7fa506243179a
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\cf\cf28048d6e71785b87b7fa506243179a
+      projectPath: Library\Artifacts\cf\cf28048d6e71785b87b7fa506243179a
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\df\df3d9765a21430acb56f554790f2467b
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\df\df3d9765a21430acb56f554790f2467b
+      projectPath: Library\Artifacts\df\df3d9765a21430acb56f554790f2467b
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\Artifacts\ff\ff3238641d6e8fa639e99a7c727253a6
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\Artifacts\ff\ff3238641d6e8fa639e99a7c727253a6
+      projectPath: Library\Artifacts\ff\ff3238641d6e8fa639e99a7c727253a6
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\SceneVisibilityState.asset
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\SceneVisibilityState.asset
+      projectPath: Library\SceneVisibilityState.asset
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\0\09f8cb2a9f7d95e078813ad4825ff1d5.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\0\09f8cb2a9f7d95e078813ad4825ff1d5.bin
+      projectPath: Library\ShaderCache\0\09f8cb2a9f7d95e078813ad4825ff1d5.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\0\0b3d9127b4b9b5f3b1f2e9f03d42937f.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\0\0b3d9127b4b9b5f3b1f2e9f03d42937f.bin
+      projectPath: Library\ShaderCache\0\0b3d9127b4b9b5f3b1f2e9f03d42937f.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\0\0c750bd13bd39a70fe71d3095814318c.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\0\0c750bd13bd39a70fe71d3095814318c.bin
+      projectPath: Library\ShaderCache\0\0c750bd13bd39a70fe71d3095814318c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\1\14c6b219047070e1a6e77a008be9e95d.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\1\14c6b219047070e1a6e77a008be9e95d.bin
+      projectPath: Library\ShaderCache\1\14c6b219047070e1a6e77a008be9e95d.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\2\279c66c3039490ab9c31cb55cacfbcd7.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\2\279c66c3039490ab9c31cb55cacfbcd7.bin
+      projectPath: Library\ShaderCache\2\279c66c3039490ab9c31cb55cacfbcd7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\2\294a85af0c96d1c170f647618c9dba14.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\2\294a85af0c96d1c170f647618c9dba14.bin
+      projectPath: Library\ShaderCache\2\294a85af0c96d1c170f647618c9dba14.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\3\36b465ae886027e513b21d075579cec8.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\3\36b465ae886027e513b21d075579cec8.bin
+      projectPath: Library\ShaderCache\3\36b465ae886027e513b21d075579cec8.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\4\4d0d53ecae2ad670e75e9ea33cdf0989.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\4\4d0d53ecae2ad670e75e9ea33cdf0989.bin
+      projectPath: Library\ShaderCache\4\4d0d53ecae2ad670e75e9ea33cdf0989.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\5\57fab74e04165a0ed7b4bb3badd2f51c.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\5\57fab74e04165a0ed7b4bb3badd2f51c.bin
+      projectPath: Library\ShaderCache\5\57fab74e04165a0ed7b4bb3badd2f51c.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\7\7c3db89be35f23ab33f4e4cd7bfb35ad.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\7\7c3db89be35f23ab33f4e4cd7bfb35ad.bin
+      projectPath: Library\ShaderCache\7\7c3db89be35f23ab33f4e4cd7bfb35ad.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\7\7e1bef82c1cbda952820c322ecd56fd7.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\7\7e1bef82c1cbda952820c322ecd56fd7.bin
+      projectPath: Library\ShaderCache\7\7e1bef82c1cbda952820c322ecd56fd7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\8\8084e1c06a2a96a507864ff2ff9d018a.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\8\8084e1c06a2a96a507864ff2ff9d018a.bin
+      projectPath: Library\ShaderCache\8\8084e1c06a2a96a507864ff2ff9d018a.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\8\82dae98c80f20f2db914c37bd1304eb7.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\8\82dae98c80f20f2db914c37bd1304eb7.bin
+      projectPath: Library\ShaderCache\8\82dae98c80f20f2db914c37bd1304eb7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\8\8fff26e095ebdb86edf257a9c1a6c591.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\8\8fff26e095ebdb86edf257a9c1a6c591.bin
+      projectPath: Library\ShaderCache\8\8fff26e095ebdb86edf257a9c1a6c591.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\9\9590f1e11f34d6702d3fa2b287533818.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\9\9590f1e11f34d6702d3fa2b287533818.bin
+      projectPath: Library\ShaderCache\9\9590f1e11f34d6702d3fa2b287533818.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\9\9e728a59b1b79cea5cac348f691d41af.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\9\9e728a59b1b79cea5cac348f691d41af.bin
+      projectPath: Library\ShaderCache\9\9e728a59b1b79cea5cac348f691d41af.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\b\b051843c98d44216a48ba29efe68f2c3.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\b\b051843c98d44216a48ba29efe68f2c3.bin
+      projectPath: Library\ShaderCache\b\b051843c98d44216a48ba29efe68f2c3.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\b\b8ff3ed92cee33a984cafb80e4bc149e.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\b\b8ff3ed92cee33a984cafb80e4bc149e.bin
+      projectPath: Library\ShaderCache\b\b8ff3ed92cee33a984cafb80e4bc149e.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\d\d786cd949ef0e030b54af21fc33debc6.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\d\d786cd949ef0e030b54af21fc33debc6.bin
+      projectPath: Library\ShaderCache\d\d786cd949ef0e030b54af21fc33debc6.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\d\de98f3025064d08b93eedbab70b143cd.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\d\de98f3025064d08b93eedbab70b143cd.bin
+      projectPath: Library\ShaderCache\d\de98f3025064d08b93eedbab70b143cd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\e\eb0940a4f45f4fc6a58b13dc16deaacd.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\e\eb0940a4f45f4fc6a58b13dc16deaacd.bin
+      projectPath: Library\ShaderCache\e\eb0940a4f45f4fc6a58b13dc16deaacd.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\e\ed6487df97ab215c85a2c328ef5945d7.bin
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\e\ed6487df97ab215c85a2c328ef5945d7.bin
+      projectPath: Library\ShaderCache\e\ed6487df97ab215c85a2c328ef5945d7.bin
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\SourceAssetDB
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\StateCache\Hierarchy\4b918f-b64d9c6161217a84cb.json
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\StateCache\Hierarchy\4b918f-b64d9c6161217a84cb.json
+      projectPath: Library\StateCache\Hierarchy\4b918f-b64d9c6161217a84cb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\StateCache\SceneView\ff234d-b64d9c6161217a84cb.json
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\StateCache\SceneView\ff234d-b64d9c6161217a84cb.json
+      projectPath: Library\StateCache\SceneView\ff234d-b64d9c6161217a84cb.json
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe0.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe0.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe1.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe1.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe11.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe11.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe11.log
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe2.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe2.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe3.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe3.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe4.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe4.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe5.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe5.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe6.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe6.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe7.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe7.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe8.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe8.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe9.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe9.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 7be87117f642b7d241e80de0fbeeb2a2280262a6
     mergeA: 
     mergeB: 
