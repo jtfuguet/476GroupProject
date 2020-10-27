@@ -13,9 +13,1684 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2020-10-27T11:35:27.778-04:00
+  lastUpdatedAtString: 2020-10-27T11:40:27.203-04:00
   initializedAtString: 2020-10-27T11:24:57.674-04:00
   log:
+  - commitID: 7be87117f642b7d241e80de0fbeeb2a2280262a6
+    mergeA: 
+    mergeB: 
+    authorName: bMeasel
+    authorEmail: 49103411+bMeasel@users.noreply.github.com
+    commitEmail: 49103411+bMeasel@users.noreply.github.com
+    commitName: bMeasel
+    summary: moving materials
+    description: moved materials into correct folder
+    timeString: 2020-10-27T11:37:39.000-04:00
+    commitTimeString: 2020-10-27T11:37:39.000-04:00
+    changes:
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree.meta
+      projectPath: Assets\Materials\WorldMaterialsFree.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BasketWeaveBricks_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BasketWeaveBricks_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\BathroomTiles_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BathroomTiles_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\BathroomTiles_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BathroomTiles_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\BathroomTiles_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BathroomTiles_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BathroomTiles_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\BathroomTiles_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BathroomTiles_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\BrushedIron_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BrushedIron_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\BrushedIron_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BrushedIron_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\BrushedIron_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BrushedIron_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\BrushedIron_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\BrushedIron_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\BrushedIron_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\ClumpMud_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\ClumpMud_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\ClumpMud_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\ClumpMud_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\ClumpMud_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\ClumpMud_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\ClumpMud_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\ClumpMud_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\ClumpMud_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\CoarseConcrete_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\CoarseConcrete_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\CoarseConcrete_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\CoarseConcrete_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\CoarseConcrete_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\CoarseConcrete_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\CoarseConcrete_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\CoarseConcrete_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\CoarseConcrete_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\DryRockyDirt_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\DryRockyDirt_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\DryRockyDirt_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\DryRockyDirt_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\DryRockyDirt_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\DryRockyDirt_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\DryRockyDirt_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\DryRockyDirt_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\DryRockyDirt_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_StandardShader.unity
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_StandardShader.unity
+      projectPath: Assets\Materials\WorldMaterialsFree\FreeDemoScen_StandardShader.unity
+      originalPath: GroupProject\Assets\WorldMaterialsFree\FreeDemoScen_StandardShader.unity
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_StandardShader.unity.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_StandardShader.unity.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\FreeDemoScen_StandardShader.unity.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\FreeDemoScen_StandardShader.unity.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_WMShader.unity
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_WMShader.unity
+      projectPath: Assets\Materials\WorldMaterialsFree\FreeDemoScen_WMShader.unity
+      originalPath: GroupProject\Assets\WorldMaterialsFree\FreeDemoScen_WMShader.unity
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_WMShader.unity.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\FreeDemoScen_WMShader.unity.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\FreeDemoScen_WMShader.unity.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\FreeDemoScen_WMShader.unity.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassClumps_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassClumps_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassClumps_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassClumps_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassClumps_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassClumps_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassClumps_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassClumps_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassClumps_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassGravel_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassGravel_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassGravel_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassGravel_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassGravel_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassGravel_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\GrassGravel_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\GrassGravel_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\GrassGravel_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\PebbledGravel_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\PebbledGravel_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\PebbledGravel_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\PebbledGravel_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\PebbledGravel_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\PebbledGravel_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\PebbledGravel_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\PebbledGravel_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\PebbledGravel_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\RedBricks_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\RedBricks_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\RedBricks_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\RedBricks_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\RedBricks_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\RedBricks_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\RedBricks_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\RedBricks_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\RedBricks_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_Smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_YFliped_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BasketWeaveBricks\BasketWeaveBricks_ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BasketWeaveBricks\BasketWeaveBricks_ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_Roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_Roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_Roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_Roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_Roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_Roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_Roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_Roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_YFliped_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_YFliped_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_YFliped_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_YFliped_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_YFliped_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_YFliped_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_YFliped_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_YFliped_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BathroomTiles\BathroomTiles_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BathroomTiles\BathroomTiles_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_AO.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_AO.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_AO.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_AO.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_AO.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_AO.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_AO.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_AO.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Metallic.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Metallic.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Metallic.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Metallic.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Metallic.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Metallic.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Metallic.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Metallic.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\BrushedIron\BrushedIron_Smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\BrushedIron\BrushedIron_Smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Grass_Ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Grass_Ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Grass_Ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Grass_Ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Grass_Ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Grass_Ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Grass_Ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Grass_Ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_Roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_Roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_YFliped_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_YFliped_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_YFliped_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_YFliped_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_YFliped_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_YFliped_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_YFliped_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_YFliped_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\ClumpMud\ClumpMud_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\ClumpMud\ClumpMud_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_Albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_Albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_Albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_Albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_Albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_Albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_Albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_Albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_YFliped_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\CoarseConcrete\CoarseConcrete_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\CoarseConcrete\CoarseConcrete_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_AO.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_AO.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_AO.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_AO.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_AO.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_AO.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_AO.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_AO.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_Smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_Smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\DryRockyDirt\DryRockyDirt_YFliped_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_Yfliped_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_Yfliped_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_Yfliped_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_Yfliped_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_Yfliped_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_Yfliped_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_Yfliped_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_Yfliped_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassClumps\GrassClumps_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassClumps\GrassClumps_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_Albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_Albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_Albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_Albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_Albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_Albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_Albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_Albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_YFliped_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_YFliped_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_YFliped_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_YFliped_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_YFliped_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_YFliped_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_YFliped_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_YFliped_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\GrassGravel\GrassGravel_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\GrassGravel\GrassGravel_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_Albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_Albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_Albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_Albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_Albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_Albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_Albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_Albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_YFliped_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_YFliped_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_YFliped_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_YFliped_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_YFliped_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_YFliped_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_YFliped_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_YFliped_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\PebbledGravel\PebbledGravel_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\PebbledGravel\PebbledGravel_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_YFliped_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_YFliped_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_YFliped_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_YFliped_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_YFliped_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_YFliped_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_YFliped_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_YFliped_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_ao.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_ao.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_ao.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_ao.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_ao.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_ao.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_ao.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_ao.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\RedBricks\RedBricks_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\RedBricks\RedBricks_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_AO.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_AO.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_AO.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_AO.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_AO.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_AO.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_AO.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_AO.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_YFliped_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_YFliped_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_YFliped_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_YFliped_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_YFliped_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_YFliped_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_YFliped_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_YFliped_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_metallic.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_metallic.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_metallic.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_metallic.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_metallic.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_metallic.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_metallic.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_metallic.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WavySand\WavySand_smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WavySand\WavySand_smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WavySand\WavySand_smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_AO.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_AO.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_AO.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_AO.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_AO.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_AO.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_AO.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_AO.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Albedo.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Albedo.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Albedo.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Albedo.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Albedo.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Albedo.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Albedo.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Albedo.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Height.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Height.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Height.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Height.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Height.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Height.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Height.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Height.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Roughness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Roughness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Roughness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Roughness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Roughness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Roughness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Roughness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Roughness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Smoothness.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Smoothness.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Smoothness.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Smoothness.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Smoothness.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_Smoothness.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Smoothness.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_Smoothness.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\Resource
+        Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\Resource Files\WoodenFlooring\WoodenFlooring_YFliped_Normal.png.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WaveSand_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WaveSand_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\WaveSand_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WaveSand_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WaveSand_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WaveSand_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\WaveSand_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WaveSand_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WavySand_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WavySand_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\WavySand_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WavySand_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WavySand_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WavySand_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\WavySand_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WavySand_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_StandardShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_StandardShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\WoodenFlooring_StandardShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WoodenFlooring_StandardShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_StandardShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_StandardShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\WoodenFlooring_StandardShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WoodenFlooring_StandardShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_WMShader.mat
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_WMShader.mat
+      projectPath: Assets\Materials\WorldMaterialsFree\WoodenFlooring_WMShader.mat
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WoodenFlooring_WMShader.mat
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_WMShader.mat.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WoodenFlooring_WMShader.mat.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\WoodenFlooring_WMShader.mat.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WoodenFlooring_WMShader.mat.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatFree.shader
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatFree.shader
+      projectPath: Assets\Materials\WorldMaterialsFree\WorldMatFree.shader
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WorldMatFree.shader
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatFree.shader.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatFree.shader.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\WorldMatFree.shader.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WorldMatFree.shader.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatLiteFree.shader
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatLiteFree.shader
+      projectPath: Assets\Materials\WorldMaterialsFree\WorldMatLiteFree.shader
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WorldMatLiteFree.shader
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatLiteFree.shader.meta
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Assets\Materials\WorldMaterialsFree\WorldMatLiteFree.shader.meta
+      projectPath: Assets\Materials\WorldMaterialsFree\WorldMatLiteFree.shader.meta
+      originalPath: GroupProject\Assets\WorldMaterialsFree\WorldMatLiteFree.shader.meta
+      indexStatus: 6
+      workTreeStatus: 0
+    - path: GroupProject\Library\ShaderCache\EditorEncounteredVariants
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\ShaderCache\EditorEncounteredVariants
+      projectPath: Library\ShaderCache\EditorEncounteredVariants
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\SourceAssetDB
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\StateCache\SceneView\ff234d-mainStage.json
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\StateCache\SceneView\ff234d-mainStage.json
+      projectPath: Library\StateCache\SceneView\ff234d-mainStage.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: GroupProject\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      fullPath: C:\Users\bamea\Documents\GroupProject\GroupProject\Library\shadercompiler-UnityShaderCompiler.exe10.log
+      projectPath: Library\shadercompiler-UnityShaderCompiler.exe10.log
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 83f91f71b25d403d8b2162b9c6a7bddc4013e5f1
     mergeA: 
     mergeB: 
