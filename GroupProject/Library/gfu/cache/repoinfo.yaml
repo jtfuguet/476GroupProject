@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2020-10-27T11:30:53.699-04:00
-  initializedAtString: 2020-10-27T11:24:51.498-04:00
+  lastUpdatedAtString: 2020-11-02T19:31:41.875-06:00
+  initializedAtString: 2020-11-02T19:31:41.875-06:00
   currentGitRemote:
     name: origin
     url: https://github.com/jtfuguet/476GroupProject.git
@@ -24,14 +24,14 @@ MonoBehaviour:
     function: 0
     token: 
   currentGitBranch:
-    name: materials/UI
-    tracking: origin/materials/UI
+    name: main
+    tracking: origin/main
   currentConfigBranch:
-    name: materials/UI
+    name: main
     remote:
       name: origin
       url: https://github.com/jtfuguet/476GroupProject.git
-    trackingBranch: materials/UI
+    trackingBranch: main
   currentConfigRemote:
     name: origin
     url: https://github.com/jtfuguet/476GroupProject.git
