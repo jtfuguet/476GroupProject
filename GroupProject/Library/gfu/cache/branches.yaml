@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2020-10-27T11:55:53.682-04:00
-  initializedAtString: 2020-10-27T11:25:39.681-04:00
+  lastUpdatedAtString: 2020-11-02T19:33:36.696-06:00
+  initializedAtString: 2020-11-02T19:33:36.552-06:00
   localBranches:
-  - name: materials/UI
-    tracking: origin/materials/UI
+  - name: main
+    tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
     tracking: '[None]'
-  - name: origin/materials/UI
+  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -33,20 +33,20 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - materials/UI
+    - main
     values:
-    - name: materials/UI
+    - name: main
       remote:
         name: origin
         url: https://github.com/jtfuguet/476GroupProject.git
-      trackingBranch: materials/UI
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
     - Values:
       - HEAD
-      - materials/UI
+      - main
     subKeyValues:
     - Values:
       - name: HEAD
@@ -54,7 +54,7 @@ MonoBehaviour:
           name: origin
           url: https://github.com/jtfuguet/476GroupProject.git
         trackingBranch: 
-      - name: materials/UI
+      - name: main
         remote:
           name: origin
           url: https://github.com/jtfuguet/476GroupProject.git
